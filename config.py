@@ -137,77 +137,33 @@ Use /help to see available commands!
 
 👤 **User Commands:**  
 • `/start` - Start the bot  
-• `/help` - Show this menu  
 • `/about` - Bot details  
-• `/short [url]` - Shorten a link (e.g., `/short example.com`)  
-/repo 
 
 👑 **Admin Commands:**  
 • `/upload` - Upload a file (reply to a file)  
 • `/stats` - View bot statistics  
 • `/broadcast` - Send a message to all users  
 • `/auto_del` - Set auto-delete timer  
-
-
 🗑 **Auto-Delete System:**  
 • Files auto-delete after a set time.  
 • Modify timer using `/auto_del`.  
-
 🔗 **Batch System:**  
 • `/batch` - Group multiple files into one link.  
-• Forward files & reply with `/batch`.  
-
-
-🛠 **Open Source:**  
-🔗 [GitHub](https://github.com/utkarshdubey2008/alphashare)  
-
-⚠️ **Need Help?** Contact [@adarsh2626](https://t.me/adarsh2626)  
+• Forward files & reply with `/batch`.   
 """
 
     ABOUT_TEXT = """
-ℹ️ **About {bot_name}**
-
-**Version:** `{version}`
-**Developer:** @adarsh2626
-**Language:** Python
-**Framework:** Pyrogram
-
-📢 **Updates:** @Thealphabotz
-🛠 **Support:** @adarsh2626
-
-**Features:**
-• Secure File Sharing
-• Force Subscribe
-• Admin Controls
-• Real-time Stats
-• Multiple File Types
-• Enhanced Security
-• Automatic File Type Detection
-
-use /repo to know more info
-
-Made with ❤️ by @adarsh2626
+hlw I am filestorebot working for @Anime_nexuus
 """
 
     FILE_TEXT = """
-📁 **File Details**
 
-**Name:** `{file_name}`
-**Size:** {file_size}
-**Type:** {file_type}
-**Downloads:** {downloads}
-**Uploaded:** {upload_time}
-**By:** {uploader}
-
-🔗 **Share Link:**
-`{share_link}`
 """
 
     FORCE_SUB_TEXT = """
 ⚠️ **Access Restricted!**
 
 Please join our channel to use this bot:
-Bot By @Thealphabotz
 
 Click button below, then try again!
 """
