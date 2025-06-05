@@ -117,19 +117,6 @@ class Messages:
 🎉 **Welcome to {bot_name}!** 🎉
 
 Hello {user_mention}! I'm your secure file sharing assistant.
-
-🔐 **Key Features:**
-• Secure File Sharing
-• Unique Download Links
-• Multiple File Types Support
-• Real-time Tracking
-• Force Subscribe
-
-📢 Join @Thealphabotz for updates!
-👨‍💻 Contact @adarsh2626 for support
-A Open Source Repo :- github.com/utkarshdubey2008/alphashare
-
-Use /help to see available commands!
 """
 
     HELP_TEXT = """
