@@ -163,8 +163,7 @@ class Buttons:
                 {"text": "About ℹ️", "callback_data": "about"}
             ],
             [
-                {"text": "Channel 📢", "url": CHANNEL_LINK},
-                {"text": "Developer 👨‍💻", "url": DEVELOPER_LINK}
+                {"text": "Channel 📢", "url": CHANNEL_LINK}
             ]
         ]
 
