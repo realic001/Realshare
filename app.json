@@ -1,5 +1,5 @@
 {
-  "name": "AlphaShare",
+  "name": "luffy",
   "description": "A secure file sharing bot using Telegram.",
   "repository": "https://github.com/utkarshdubey2008/Alphashare",
   "env": {
@@ -48,11 +48,11 @@
     },
     "DEVELOPER_LINK": {
       "description": "Link to the developer's Telegram profile or bot support",
-      "required": true
+      "required": false
     },
     "SUPPORT_LINK": {
       "description": "Link to the support group or chat for the bot",
-      "required": true
+      "required": false
     },
     "BOT_USERNAME": {
       "description": "The username of your bot (without @)",
