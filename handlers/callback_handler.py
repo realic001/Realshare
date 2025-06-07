@@ -57,7 +57,7 @@ async def callback_handler(client: Client, callback: CallbackQuery):
                     if delete_time:
                         info_msg = await msg.reply_text(
                             f"⏳ **File Auto-Delete Information**\n\n"
-                            f"‼️ Forward the Files to Saved Messages or somewhere else before Downloading it
+                            f"❗️❗️Forward the Files to Saved Messages or somewhere else before Downloading it
 it will get Delete after {delete_time} minutes‼️\n"
                             f"• Delete Time: {delete_time} minutes\n"
                             f"• Time Left: {delete_time} minutes\n"
